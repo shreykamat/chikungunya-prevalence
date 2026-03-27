@@ -10,7 +10,7 @@ A small end-to-end data project that takes raw chikungunya case records, prepare
 
 ## Live App
 
-Add your deployed Streamlit app link here after publishing:
+Streamlit app link:
 
 ```text
 https://your-app-name.streamlit.app
