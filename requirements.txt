@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+seaborn
+SQLAlchemy
+python-dateutil
+psycopg2-binary

@@ -1,0 +1,9 @@
+,0
+total_cases,30
+overall_prevalence,1.0
+sex_prevalence,"{'Male': 0.6, 'Female': 0.4}"
+residence_prevalence,"{'Local': 0.9333333333333333, 'Native of non endemic area': 0.06666666666666667}"
+age_group_prevalence,"{'61-70': 0.23333333333333334, '71-80': 0.2, '21-30': 0.16666666666666666, '51-60': 0.13333333333333333, '31-40': 0.1, '41-50': 0.1, '81+': 0.06666666666666667, '0-10': 0.0, '11-20': 0.0}"
+comorbidity_prevalence,{}
+complication_prevalence,{}
+monthly_incidence,"{Period('2023-12', 'M'): 1, Period('2024-04', 'M'): 1, Period('2024-06', 'M'): 1, Period('2024-07', 'M'): 5, Period('2024-08', 'M'): 12, Period('2024-09', 'M'): 4, Period('2025-05', 'M'): 1}"

@@ -1,0 +1,9 @@
+comorbidity,count,mortality_rate,icu_rate
+Diabetes Mellitus,12,8.33,25.0
+Hypertension,12,8.33,25.0
+Coronary artery disease/Congestive Heart Failure,6,16.67,16.67
+Osteoarthritis/ Rhumatoid Arthritis,3,0.0,33.33
+Chronic kidney disease,3,0.0,0.0
+COPD/ Intestitial Lung Disease,2,0.0,0.0
+Chronic liver disease,1,0.0,100.0
+Autoimmune,1,0.0,0.0
